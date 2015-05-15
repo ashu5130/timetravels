@@ -1,1 +1,1 @@
-This is my second file in git. I am new in git.
+i m new in git. but now know something
